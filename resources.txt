@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=0mq44Q9byUM
+
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+https://www.google.com/search?channel=ftr&client=firefox-b-1-d&q=pyodbc+connect+to+sql+server#ip=1
+
+https://medium.com/@himanshu_88759/how-to-connect-mysql-database-to-aws-lambda-using-python-485e7fdfae56
+
+https://docs.aws.amazon.com/lambda/latest/dg/python-package.html#python-package-dependencies
